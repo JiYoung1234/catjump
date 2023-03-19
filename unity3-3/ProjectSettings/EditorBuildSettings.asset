@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/chapter6/ClearScene.unity
+    guid: 9a37d3624fef81a49bc1669f46e895cb
+  - enabled: 1
+    path: Assets/chapter6/Jumping 1.unity
+    guid: 565a9d67927f464488b0dc156d6366c5
+  m_configObjects: {}
